@@ -1,6 +1,6 @@
 ﻿namespace BoxXplorer
 {
-    partial class Form1
+    partial class frm_Explorer
     {
         /// <summary>
         /// Required designer variable.
